@@ -49,8 +49,8 @@ class Song
       counts1[artist] = 1
       
     end
-    counts1
   end 
+  counts1
   end 
   
   attr_accessor :name, :artist, :genre
